@@ -1,0 +1,8 @@
+## The user database file is db.json inside data folder 
+
+## Please make sure to change the role from empty string  to admin in db.json when creating the first admin in order to view the admin dashboard and go on from there.
+
+
+## if admin is loggedin it will redirect todash_admin, if user then dash_user and if null then dash_null 
+
+## Thank you very much.
